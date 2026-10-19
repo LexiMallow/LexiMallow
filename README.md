@@ -1,6 +1,6 @@
 <div>
 
-# Hi 👋, I'm Alex
+# Hi 👋, I'm Alexa
 
 ### A passionate developer from The Netherlands
 
