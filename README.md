@@ -18,7 +18,7 @@
 
 <div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsAlexeii)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LexiMallow)
 
 </div>
 
@@ -48,9 +48,9 @@
 
 <div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsAlexeii&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LexiMallow&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ItsAlexeii&theme=onedark&column=7&margin-w=15&margin-h=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=LexiMallow&theme=onedark&column=7&margin-w=15&margin-h=15)
 
 </div>
 
