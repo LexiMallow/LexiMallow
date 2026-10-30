@@ -3,7 +3,7 @@
 # Hi, I'm Alexa
 ### Developer, cozy gamer, and VR & AR enthusiast
 Based in the Netherlands. Known here as **LexiMallow**.<br> 
-Co-maintainer of [Jellyframe](https://github.com/Cuteminded/jellyframe) · Backend and API development for [Lizzy.nu](https://Lizzy.nu)
+Co-maintainer of [JellyXR](https://github.com/Cuteminded/JellyXR) · Backend and API development for [Lizzy.nu](https://Lizzy.nu)
 
 </div>
 
