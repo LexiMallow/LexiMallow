@@ -11,7 +11,7 @@ Co-maintainer of [JellyXR](https://github.com/Cuteminded/JellyXR) · Backend and
 
 <div align="left">
 
-- I'm currently learning C++
+- I'm currently learning java + kotlin
 
 </div>
 
