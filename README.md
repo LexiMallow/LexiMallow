@@ -20,6 +20,7 @@ Co-maintainer of [JellyXR](https://github.com/Cuteminded/JellyXR) · Backend and
 <div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LexiMallow)
+[![Lizzy.nu](/resources/lizzy-nu-badge.svg)](https://lizzy.nu/@leximallow)
 
 </div>
 
@@ -31,6 +32,8 @@ Co-maintainer of [JellyXR](https://github.com/Cuteminded/JellyXR) · Backend and
 ![Python](https://img.shields.io/badge/Python-F3C9BE?style=for-the-badge&logo=python&logoColor=603D3B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EAB1AC?style=for-the-badge&logo=javascript&logoColor=603D3B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F3C9BE?style=for-the-badge&logo=typescript&logoColor=603D3B)
+![cplusplus](https://img.shields.io/badge/C++-EAB1AC?style=for-the-badge&logo=cplusplus&logoColor=603D3B)
+![Kotlin](https://img.shields.io/badge/Kotlin-F3C9BE?style=for-the-badge&logo=kotlin&logoColor=603D3B)
 
 ### Web and desktop
 
